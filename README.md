@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hassan 👋
 
-<!--
-**Hassan-dev-12/Hassan-dev-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer in making | Learning Web Development
 
-Here are some ideas to get you started:
+I'm Hassan from Islamabad, passionate about coding and building beautiful websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 👨‍💻 All of my projects are available at [github.com/Hassan-dev-12](https://github.com/Hassan-dev-12)
+- 🎯 Goal: To become a Full Stack Developer
+- ⚡ Fun fact: I love to turn ideas into reality with code!
+
+### 🛠️ Languages and Tools:
+`HTML` `CSS` `JavaScript` `Git` `VS Code`
+
+---
+⭐ From [Hassan-dev-12](https://github.com/Hassan-dev-12) 
